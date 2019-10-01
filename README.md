@@ -1,5 +1,5 @@
 # jwt-ouath-salesforce
-The python script to call jwt beare token between server and salesforce.
+The simple python script to call jwt beare token between server and salesforce.
 
 # How to Use :hatching_chick:
 **1**. To use this script, install PIP **PyJWT** https://pypi.org/project/PyJWT/ and PIP **cryptography** https://pypi.org/project/cryptography/, These libraries are used to create the correct signature between client and server.
