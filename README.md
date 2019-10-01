@@ -17,4 +17,4 @@ https://yourInstance.salesforce.com","id":"
 https://yourInstance.salesforce.com
 /id/00Dxx0000001gPLEAY/005xx000001SwiUAAS","token_type":"Bearer"}`
 
-`On some servers, where it is not possible to perform authorization via the web, this authentication model is useful, especially since we do not have to risk exposing user data, such as username, password and token. Example: Continous Integration (Jenkins CI, Travis...etc)` :wink:
+On some servers, where it is not possible to perform authorization via the web, this authentication model is useful, especially since we do not have to risk exposing user data, such as username, password and token. Example: Continous Integration (Jenkins CI, Travis...etc) :wink:
