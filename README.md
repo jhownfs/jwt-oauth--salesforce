@@ -19,4 +19,11 @@ https://yourInstance.salesforce.com
 
 On some servers, where it is not possible to perform authorization via the web, this authentication model is useful, especially since we do not have to risk exposing user data, such as username, password and token. Example: Continous Integration (Jenkins CI, Travis...etc) :wink:
 
-If you have any suggestions, feel free to comment! :smiley:
+# Contributing 
+
+If you want contributing with this project, please follow these steps
+
+ 1. Do a fork
+ 2. Create a branch feature
+ 3. Open a PR, don't forget your comments and improvements.
+ 
